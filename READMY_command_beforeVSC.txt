@@ -1,0 +1,5 @@
+python3 -m venv .venv  
+pip install --upgrade pip
+pip install streamlit
+pip install plotly
+pip install pandas
